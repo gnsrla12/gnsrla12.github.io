@@ -4,4 +4,4 @@ title: First Post
 published: true
 ---
 
-This is the first post.
+This is the first post!
