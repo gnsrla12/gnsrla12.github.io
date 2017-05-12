@@ -10,7 +10,7 @@ MS Student
 
 [Korea Advanced Institute of Science and Technology](http://www.kaist.ac.kr/html/kr/index.html)
 
-Advisor: [Changho Suh](https://sites.google.com/site/changhosuh/)
+Advisor: [Changho Suh](http://csuh.kaist.ac.kr)
 
 ### Contact me
 
