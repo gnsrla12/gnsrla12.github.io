@@ -6,11 +6,13 @@ permalink: /about/
 
 ### Hoon Kim
 
-MS Student at KAIST (Korea Advanced Institute of Science and Technology)
-
-Advisor: [Changho Suh](https://sites.google.com/site/changhosuh/)
+MS Student
 
 Department of Electrical Engineering
+
+Korea Advanced Institute of Science and Technology
+
+Advisor: [Changho Suh](https://sites.google.com/site/changhosuh/)
 
 ### Contact me
 
