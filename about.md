@@ -4,11 +4,13 @@ title: About
 permalink: /about/
 ---
 
-I am MS student and an aspiring researcher.
-
-### More Information
+### Hoon Kim
 
 MS Student at KAIST (Korea Advanced Institute of Science and Technology)
+
+Advisor: [Changho Suh](https://sites.google.com/site/changhosuh/)
+
+Department of Electrical Engineering
 
 ### Contact me
 
