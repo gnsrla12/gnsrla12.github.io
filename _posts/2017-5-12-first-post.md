@@ -1,6 +1,8 @@
 ---
 layout: post
-title: You're up and running!
+title: About my self
 ---
 
-Hello World!
+I am a MS student in the EE Dept. at KAIST. I am advised by Prof. Changho Suh and a member of Information System Laboratory (ISL)
+
+I double majored Computer Science and Electrical Engineering and received Bachelor of Science in Electrical Engineering from Korea Advanced Institute of Science and Technology (KAIST) in february 2017.
