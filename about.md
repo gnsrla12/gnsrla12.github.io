@@ -1,10 +1,8 @@
 ---
 layout: page
-title: About
+title: Hoon Kim
 permalink: /about/
 ---
-
-### Hoon Kim
 
 MS Student
 
