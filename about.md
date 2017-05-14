@@ -4,7 +4,7 @@ title: Hoon Kim
 permalink: /about/
 ---
 
-MS Student
+M.S. Student
 
 [Department of Electrical Engineering](https://ee.kaist.ac.kr)
 
