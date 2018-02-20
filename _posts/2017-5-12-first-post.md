@@ -10,5 +10,7 @@ I double majored Computer Science and Electrical Engineering and received Bachel
 ## Publications (*=equal contribution)
 
 **1. Simulated+Unsupervised Learning With Adaptive Data Generation and Bidirectional Mappings**
+
     International Conference on Learning Representations (ICLR), BC, Canada, April, 2018
+
     Kangwook. Lee*, **Hoon. Kim***, and Changho. Suh
