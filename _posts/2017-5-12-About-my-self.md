@@ -22,4 +22,3 @@ I double majored Computer Science and Electrical Engineering and received Bachel
    Kangwook Lee*, __Hoon Kim*__, and Changho Suh  
    
 
-# Education
