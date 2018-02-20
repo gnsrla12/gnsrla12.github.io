@@ -14,7 +14,7 @@ I double majored Computer Science and Electrical Engineering and received Bachel
    Kangwook Lee*, __Hoon Kim*__, and Changho Suh  
    
 2. **SGD on Random Mixtures: Private Machine Learning under Data Breach Threats**  
-   SysML 2018, Stanford, CA, February, 2018 
+   SysML 2018, Stanford, CA, February, 2018  
    Kangwook Lee, Kyoungmin Lee*, __Hoon Kim*__, Changho Suh, and Kannan Ramchandran  
    
 3. **Crash to not crash: Playing video games to predict vehicle collisions**  
