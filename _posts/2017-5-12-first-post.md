@@ -18,6 +18,6 @@ I double majored Computer Science and Electrical Engineering and received Bachel
    Kangwook Lee, Kyoungmin Lee*, __Hoon Kim*__, Changho Suh, and Kannan Ramchandran  
    
 3. **Crash to not crash: Playing video games to predict vehicle collisions**  
-   ICML Workshop on Machine Learning for Autonomous Vehicles, Sydney, Australia, August, 2017 
+   ICML Workshop on Machine Learning for Autonomous Vehicles, Sydney, Australia, August, 2017  
    Kangwook Lee*, __Hoon Kim*__, and Changho Suh  
    
