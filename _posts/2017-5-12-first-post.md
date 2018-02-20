@@ -3,6 +3,12 @@ layout: post
 title: About my self
 ---
 
-I am a M.S. student in the EE Dept. at KAIST. I am advised by Prof. Changho Suh and a member of Information System Laboratory (ISL).
+# About my self
 
-I double majored Computer Science and Electrical Engineering and received Bachelor of Science from Korea Advanced Institute of Science and Technology (KAIST) in february 2017.
+I am a M.S. student in the EE Dept. at KAIST. I am advised by Prof. Changho Suh and a member of Information System Laboratory (ISL). I double majored Computer Science and Electrical Engineering and received Bachelor of Science from Korea Advanced Institute of Science and Technology (KAIST) in february 2017. My major interest currently lay in machine learning.
+
+# Publications (*=equal contribution)
+
+## Simulated+Unsupervised Learning With Adaptive Data Generation and Bidirectional Mappings
+International Conference on Learning Representations (ICLR), BC, Canada, April, 2018
+K. Lee*, H. Kim*, and C. Suh
