@@ -34,7 +34,7 @@ I received Bachelor of Science from [Korea Advanced Institute of Science and Tec
    Korea Advanced Institute of Science and Technology (KAIST)  
    Major : Electrical Engineering, Computer Science (Double Major)   
 
--  __Sangsan Highschool, 2009.03 - 2012.02__
+- __Sangsan Highschool, 2009.03 - 2012.02__
 
 
 ---------------------------------------
