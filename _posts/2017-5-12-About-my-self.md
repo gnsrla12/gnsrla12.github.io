@@ -14,11 +14,11 @@ I received Bachelor of Science from [Korea Advanced Institute of Science and Tec
    International Conference on Learning Representations (ICLR), BC, Canada, April, 2018  
    Kangwook Lee*, __Hoon Kim*__, and Changho Suh  
    
-2. **SGD on Random Mixtures: Private Machine Learning under Data Breach Threats**  
+2. **[SGD on Random Mixtures: Private Machine Learning under Data Breach Threats](http://www.sysml.cc/doc/73.pdf)**  
    SysML 2018, Stanford, CA, February, 2018  
    Kangwook Lee, Kyoungmin Lee*, __Hoon Kim*__, Changho Suh, and Kannan Ramchandran  
    
-3. **Crash to not crash: Playing video games to predict vehicle collisions**  
+3. **[Crash to not crash: Playing video games to predict vehicle collisions](https://openreview.net/pdf?id=r1GXtBEf-)**  
    ICML Workshop on Machine Learning for Autonomous Vehicles, Sydney, Australia, August, 2017  
    Kangwook Lee*, __Hoon Kim*__, and Changho Suh  
    
