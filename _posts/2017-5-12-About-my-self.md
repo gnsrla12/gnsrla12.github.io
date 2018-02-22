@@ -24,6 +24,6 @@ I double majored Computer Science and Electrical Engineering and received Bachel
 
 # Educations
 
-- **Bachelor of Science (BS), 2012.02 - 2017.02**  
+- **Bachelor of Science (BS), 2012.02-2017.02**  
    Korea Advanced Institute of Science and Technology (KAIST)  
    Major : Electrical Engineering   
