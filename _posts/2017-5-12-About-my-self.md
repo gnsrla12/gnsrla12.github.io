@@ -5,7 +5,7 @@ title: About my self
 
 I am a **M.S. student** in the [EE Dept.](https://ee.kaist.ac.kr/?language=en) at [Korea Advanced Institute of Science and Technology (KAIST)](https://www.kaist.ac.kr/html/en/). I am advised by [Prof. Changho Suh and a member of Information System Laboratory](http://csuh.kaist.ac.kr/). My major interest currently lay in **machine learning and deep learning**.
 
-I received Bachelor of Science from Korea Advanced Institute of Science and Technology (KAIST) in february 2017 and double majored Computer Science and Electrical Engineering. 
+I received Bachelor of Science from [Korea Advanced Institute of Science and Technology (KAIST)](https://www.kaist.ac.kr/html/en/) in february 2017 and double majored Computer Science and Electrical Engineering. 
 
 ---------------------------------------
 # Publications (*=equal contribution)
