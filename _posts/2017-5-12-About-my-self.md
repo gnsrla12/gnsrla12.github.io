@@ -8,7 +8,6 @@ I am a **M.S. student** in the EE Dept. at KAIST. I am advised by Prof. Changho 
 I double majored Computer Science and Electrical Engineering and received Bachelor of Science from Korea Advanced Institute of Science and Technology (KAIST) in february 2017. 
 
 ---------------------------------------
-
 # Publications (*=equal contribution)
 
 1. **Simulated+Unsupervised Learning With Adaptive Data Generation and Bidirectional Mappings**  
@@ -24,12 +23,10 @@ I double majored Computer Science and Electrical Engineering and received Bachel
    Kangwook Lee*, __Hoon Kim*__, and Changho Suh  
    
 ---------------------------------------
-
 # Educations
 
 - __Bachelor of Science (BS), 2012.03 - 2017.02__  
    Korea Advanced Institute of Science and Technology (KAIST)  
    Major : Electrical Engineering   
-
 
 -  Sangsan Highschool, 2009.03 - 2012.02
