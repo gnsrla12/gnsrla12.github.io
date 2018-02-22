@@ -30,3 +30,12 @@ I received Bachelor of Science from [Korea Advanced Institute of Science and Tec
    Major : Electrical Engineering, Computer Science (Double Major)   
 
 -  __Sangsan Highschool, 2009.03 - 2012.02__
+
+---------------------------------------
+# Work Experience
+
+- __Software Engineer Intern: Naver D2 Startup Factory, 2015.07 - 2015.08__  
+   Naver D2 Startup Factory
+
+- __Software Engineer Intern: Smilegate, 2015.07__  
+   Server Development
