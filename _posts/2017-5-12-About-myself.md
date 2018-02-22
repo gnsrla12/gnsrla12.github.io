@@ -6,7 +6,7 @@ title: About myself
 I am a **M.S. student** in the [EE Dept.](https://ee.kaist.ac.kr/?language=en) at [Korea Advanced Institute of Science and Technology (KAIST)](https://www.kaist.ac.kr/html/en/). I am advised by [Prof. Changho Suh and a member of Information System Laboratory](http://csuh.kaist.ac.kr/). My major interest currently lay in **machine learning and deep learning**.
 
 I received Bachelor of Science from [Korea Advanced Institute of Science and Technology (KAIST)](https://www.kaist.ac.kr/html/en/) in february 2017 and double majored Computer Science and Electrical Engineering. 
-
+  
 ---------------------------------------
 ## Publications (*=equal contribution)
 
@@ -22,7 +22,6 @@ I received Bachelor of Science from [Korea Advanced Institute of Science and Tec
    ICML Workshop on Machine Learning for Autonomous Vehicles, Sydney, Australia, August, 2017  
    Kangwook Lee*, __Hoon Kim*__, and Changho Suh  
    
-
 ---------------------------------------
 ## Educations
 
@@ -35,8 +34,7 @@ I received Bachelor of Science from [Korea Advanced Institute of Science and Tec
    Major : Electrical Engineering, Computer Science (Double Major)   
 
 - __Sangsan Highschool, 2009.03 - 2012.02__
-
-
+  
 ---------------------------------------
 ## Work Experience
 
@@ -45,10 +43,10 @@ I received Bachelor of Science from [Korea Advanced Institute of Science and Tec
 
 - __Software Engineer Intern: Smilegate, 2015.07__  
    Server Development
-
+  
 ---------------------------------------
 ## Awards
 
 - __KAIST E5 Start-up Challenge 2nd place, 2015__  
-
+  
 
