@@ -8,7 +8,7 @@ I am a **M.S. student** in the [EE Dept.](https://ee.kaist.ac.kr/?language=en) a
 I received Bachelor of Science from [Korea Advanced Institute of Science and Technology (KAIST)](https://www.kaist.ac.kr/html/en/) in february 2017 and double majored Computer Science and Electrical Engineering. 
 
 ---------------------------------------
-# Publications (*=equal contribution)
+## Publications (*=equal contribution)
 
 1. **[Simulated+Unsupervised Learning With Adaptive Data Generation and Bidirectional Mappings](https://openreview.net/pdf?id=SkHDoG-Cb)**  
    International Conference on Learning Representations (ICLR), BC, Canada, April, 2018  
@@ -24,7 +24,7 @@ I received Bachelor of Science from [Korea Advanced Institute of Science and Tec
    
 
 ---------------------------------------
-# Educations
+## Educations
 
 - __Master of Science Candidate (MS), 2017.03 - present__  
    Korea Advanced Institute of Science and Technology (KAIST)  
@@ -38,7 +38,7 @@ I received Bachelor of Science from [Korea Advanced Institute of Science and Tec
 
 
 ---------------------------------------
-# Work Experience
+## Work Experience
 
 - __Software Engineer Intern: Naver D2 Startup Factory, 2015.07 - 2015.08__  
    Imbedded System Development
@@ -47,7 +47,7 @@ I received Bachelor of Science from [Korea Advanced Institute of Science and Tec
    Server Development
 
 ---------------------------------------
-# Awards
+## Awards
 
 - __KAIST E5 Start-up Challenge 2nd place, 2015__  
 
