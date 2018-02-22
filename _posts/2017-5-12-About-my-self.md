@@ -35,7 +35,7 @@ I received Bachelor of Science from [Korea Advanced Institute of Science and Tec
 # Work Experience
 
 - __Software Engineer Intern: Naver D2 Startup Factory, 2015.07 - 2015.08__  
-   Naver D2 Startup Factory
+   Imbedded System Development
 
 - __Software Engineer Intern: Smilegate, 2015.07__  
    Server Development
