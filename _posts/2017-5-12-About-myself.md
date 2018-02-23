@@ -52,4 +52,5 @@ I received Bachelor of Science from [Korea Advanced Institute of Science and Tec
 ---------------------------------------
 ## Projects
 
-[![Skatey](https://imgur.com/2Kc1nqT)](https://vimeo.com/174919036 "Skatey - Click to Watch!")
+### Skatey
+[![Skatey](https://i.imgur.com/2Kc1nqT.png)](https://vimeo.com/174919036 "Skatey - Click to Watch!")
