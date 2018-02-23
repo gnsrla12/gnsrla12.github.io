@@ -13,7 +13,7 @@ I received Bachelor of Science from [Korea Advanced Institute of Science and Tec
 ### International Conference & Workshop Proceedings
 
 1. **[Simulated+Unsupervised Learning With Adaptive Data Generation and Bidirectional Mappings](https://openreview.net/pdf?id=SkHDoG-Cb)**  
-   International Conference on Learning Representations (ICLR), BC, Canada, April, 2018  
+   ICLR (International Conference on Learning Representations), BC, Canada, April, 2018  
    Kangwook Lee*, __Hoon Kim*__, and Changho Suh  
    
 2. **[SGD on Random Mixtures: Private Machine Learning under Data Breach Threats](http://www.sysml.cc/doc/73.pdf)**  
