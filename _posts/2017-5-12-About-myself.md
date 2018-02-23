@@ -52,4 +52,4 @@ I received Bachelor of Science from [Korea Advanced Institute of Science and Tec
 ---------------------------------------
 ## Projects
 
-[![Little red ridning hood](http://i.imgur.com/7YTMFQp.png)](https://vimeo.com/3514904 "Little red riding hood - Click to Watch!")
+[![Skatey](https://imgur.com/2Kc1nqT)](https://vimeo.com/174919036 "Skatey - Click to Watch!")
