@@ -44,11 +44,10 @@ I received Bachelor of Science from [Korea Advanced Institute of Science and Tec
    Imbedded System Development
 
 - __Software Engineer Intern: Smilegate, 2015.07__  
-   Server Development
+    Server Development
   
 ---------------------------------------
 ## Awards
 
 - __2nd place, KAIST E5 Start-up Challenge ($10,000), 2015__  
    Skatey, the Most Skateboard-like Electric Skateboard ([Video](https://vimeo.com/174919036))
----------------------------------------
