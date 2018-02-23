@@ -10,6 +10,8 @@ I received Bachelor of Science from [Korea Advanced Institute of Science and Tec
 ---------------------------------------
 ## Publications (*=equal contribution)
 
+### International Conference & Workshop Proceedings
+
 1. **[Simulated+Unsupervised Learning With Adaptive Data Generation and Bidirectional Mappings](https://openreview.net/pdf?id=SkHDoG-Cb)**  
    International Conference on Learning Representations (ICLR), BC, Canada, April, 2018  
    Kangwook Lee*, __Hoon Kim*__, and Changho Suh  
@@ -47,10 +49,11 @@ I received Bachelor of Science from [Korea Advanced Institute of Science and Tec
 ---------------------------------------
 ## Awards
 
-- __KAIST E5 Start-up Challenge 2nd place, 2015__  
+- __KAIST E5 Start-up Challenge 2nd place (10000000, 2015__  
 
 ---------------------------------------
 ## Projects
 
 ### Skatey
+A
 [![Skatey](https://i.imgur.com/2Kc1nqT.png)](https://vimeo.com/174919036 "Skatey - Click to Watch!")
