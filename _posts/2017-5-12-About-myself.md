@@ -49,11 +49,6 @@ I received Bachelor of Science from [Korea Advanced Institute of Science and Tec
 ---------------------------------------
 ## Awards
 
-- __KAIST E5 Start-up Challenge 2nd place (10000000, 2015__  
-
+- __2nd place, KAIST E5 Start-up Challenge ($10,000), 2015__  
+   ([Video](https://vimeo.com/174919036 "Skatey - Click to Watch!"))
 ---------------------------------------
-## Projects
-
-### Skatey
-A
-[![Skatey](https://i.imgur.com/2Kc1nqT.png)](https://vimeo.com/174919036 "Skatey - Click to Watch!")
