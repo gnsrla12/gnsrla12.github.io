@@ -50,5 +50,5 @@ I received Bachelor of Science from [Korea Advanced Institute of Science and Tec
 ## Awards
 
 - __2nd place, KAIST E5 Start-up Challenge ($10,000), 2015__  
-   ([Video](https://vimeo.com/174919036 "Skatey - Click to Watch!"))
+   Skatey, the Most Skateboard-like Electric Skateboard ([Video](https://vimeo.com/174919036))
 ---------------------------------------
