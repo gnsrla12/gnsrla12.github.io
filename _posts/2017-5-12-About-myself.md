@@ -13,7 +13,7 @@ I received Bachelor of Science from [Korea Advanced Institute of Science and Tec
 ### International Conference & Workshop Proceedings
 
 1. **[SGD on Random Mixtures: Private Machine Learning under Data Breach Threats](https://openreview.net/forum?id=r17_wzJPM)**  
-   ICLR, BC, Canada, April, 2018  
+   ICLR Workshop, BC, Canada, April, 2018  
    Kangwook Lee, Kyoungmin Lee*, __Hoon Kim*__, Changho Suh, and Kannan Ramchandran 
    
 2. **[Simulated+Unsupervised Learning With Adaptive Data Generation and Bidirectional Mappings](https://openreview.net/pdf?id=SkHDoG-Cb)**  
