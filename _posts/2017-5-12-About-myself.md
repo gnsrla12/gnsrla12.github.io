@@ -27,7 +27,13 @@ I received Bachelor of Science from [Korea Advanced Institute of Science and Tec
 4. **[Crash to not crash: Playing video games to predict vehicle collisions](https://openreview.net/pdf?id=r1GXtBEf-)**  
    ICML Workshop on Machine Learning for Autonomous Vehicles, Sydney, Australia, August, 2017  
    Kangwook Lee*, __Hoon Kim*__, and Changho Suh  
-   
+  
+---------------------------------------
+## Talks
+
+- __Simulated+Unsupervised learning with adaptive generation and birectional mappings__  
+   2018 IEEK SUMMER CONFERENCE
+
 ---------------------------------------
 ## Educations
 
@@ -45,7 +51,7 @@ I received Bachelor of Science from [Korea Advanced Institute of Science and Tec
 ## Work Experience
 
 - __Software Engineer Intern: Naver D2 Startup Factory, 2015.07 - 2015.08__  
-   Imbedded System Development
+    Imbedded System Development
 
 - __Software Engineer Intern: Smilegate, 2015.07__  
     Server Development
