@@ -31,8 +31,7 @@ I received Bachelor of Science from [Korea Advanced Institute of Science and Tec
 ---------------------------------------
 ## Talks
 
-- __(June 2018) Gave an invited talk__  
-   "Simulated+Unsupervised learning with adaptive generation and birectional mappings"  
+- __(June 2018) Gave an invited talk "Simulated+Unsupervised learning with adaptive generation and birectional mappings"__  
    @ Institute of Electronics Engineers of Korea, Summer Conference
 
 ---------------------------------------
