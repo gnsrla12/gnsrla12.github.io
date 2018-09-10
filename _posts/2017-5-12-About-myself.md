@@ -29,7 +29,7 @@ I received Bachelor of Science from [Korea Advanced Institute of Science and Tec
    Kangwook Lee*, __Hoon Kim*__, and Changho Suh  
   
 ---------------------------------------
-## Talks
+## Technical Talks
 
 - __Domain Adaptation from Simulation to Real World__  
    (August 2018) Invited talk @ Samsung Advanced Institute of Technology (SAIT)
