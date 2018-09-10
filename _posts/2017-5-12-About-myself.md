@@ -12,13 +12,13 @@ I received Bachelor of Science from [Korea Advanced Institute of Science and Tec
 
 ### International Conference & Workshop Proceedings
 
-1. **[SGD on Random Mixtures: Private Machine Learning under Data Breach Threats](https://openreview.net/forum?id=r17_wzJPM)**  
-   ICLR Workshop, BC, Canada, April, 2018  
-   Kangwook Lee, Kyoungmin Lee*, __Hoon Kim*__, Changho Suh, and Kannan Ramchandran 
-   
-2. **[Simulated+Unsupervised Learning With Adaptive Data Generation and Bidirectional Mappings](https://openreview.net/pdf?id=SkHDoG-Cb)**  
+1. **[Simulated+Unsupervised Learning With Adaptive Data Generation and Bidirectional Mappings](https://openreview.net/pdf?id=SkHDoG-Cb)**  
    ICLR, BC, Canada, April, 2018  
    Kangwook Lee*, __Hoon Kim*__, and Changho Suh  
+
+2. **[SGD on Random Mixtures: Private Machine Learning under Data Breach Threats](https://openreview.net/forum?id=r17_wzJPM)**  
+   ICLR Workshop, BC, Canada, April, 2018  
+   Kangwook Lee, Kyoungmin Lee*, __Hoon Kim*__, Changho Suh, and Kannan Ramchandran 
    
 3. **[SGD on Random Mixtures: Private Machine Learning under Data Breach Threats](http://www.sysml.cc/doc/73.pdf)**  
    SysML, Stanford, CA, February, 2018  
@@ -34,7 +34,7 @@ I received Bachelor of Science from [Korea Advanced Institute of Science and Tec
 - __Domain Adaptation from Simulation to Real World__  
    (August 2018) Invited talk @ Samsung Advanced Institute of Technology (SAIT)
 
-- __Simulated+Unsupervised Learning with Adaptive Generation and Birectional Mappings__  
+- __Simulated+Unsupervised Learning with Adaptive Data Generation and Birectional Mappings__  
    (June 2018) Invited talk @ Institute of Electronics Engineers of Korea (IEEK), Summer Conference
 
 ---------------------------------------
