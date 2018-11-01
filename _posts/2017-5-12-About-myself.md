@@ -14,19 +14,23 @@ I received Bachelor of Science from [Korea Advanced Institute of Science and Tec
 
 ### International Conference & Workshop Proceedings
 
-1. **[Simulated+Unsupervised Learning With Adaptive Data Generation and Bidirectional Mappings](https://openreview.net/pdf?id=SkHDoG-Cb)**  
+1. **Crash to not crash: Learn to identify dangerous vehicles using a simulator**  
+   AAAI, Hawaii, USA, January, 2019  
+   __Hoon Kim*__, Kangwook Lee*, Gyeongjo Hwang, and Changho Suh  
+   
+2. **[Simulated+Unsupervised Learning With Adaptive Data Generation and Bidirectional Mappings](https://openreview.net/pdf?id=SkHDoG-Cb)**  
    ICLR, BC, Canada, April, 2018  
    Kangwook Lee*, __Hoon Kim*__, and Changho Suh  
 
-2. **[SGD on Random Mixtures: Private Machine Learning under Data Breach Threats](https://openreview.net/forum?id=r17_wzJPM)**  
+3. **[SGD on Random Mixtures: Private Machine Learning under Data Breach Threats](https://openreview.net/forum?id=r17_wzJPM)**  
    ICLR Workshop, BC, Canada, April, 2018  
    Kangwook Lee, Kyoungmin Lee*, __Hoon Kim*__, Changho Suh, and Kannan Ramchandran 
    
-3. **[SGD on Random Mixtures: Private Machine Learning under Data Breach Threats](http://www.sysml.cc/doc/73.pdf)**  
+4. **[SGD on Random Mixtures: Private Machine Learning under Data Breach Threats](http://www.sysml.cc/doc/73.pdf)**  
    SysML, Stanford, CA, February, 2018  
    Kangwook Lee, Kyoungmin Lee*, __Hoon Kim*__, Changho Suh, and Kannan Ramchandran  
    
-4. **[Crash to not crash: Playing video games to predict vehicle collisions](https://openreview.net/pdf?id=r1GXtBEf-)**  
+5. **[Crash to not crash: Playing video games to predict vehicle collisions](https://openreview.net/pdf?id=r1GXtBEf-)**  
    ICML Workshop on Machine Learning for Autonomous Vehicles, Sydney, Australia, August, 2017  
    Kangwook Lee*, __Hoon Kim*__, and Changho Suh  
   
