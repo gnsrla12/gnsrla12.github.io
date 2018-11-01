@@ -15,7 +15,7 @@ I received Bachelor of Science from [Korea Advanced Institute of Science and Tec
 ### International Conference & Workshop Proceedings
 
 1. **Crash to not crash: Learn to identify dangerous vehicles using a simulator**  
-   AAAI, Hawaii, USA, January, 2019  
+   AAAI, Honolulu, Hawaii, USA, January, 2019  
    __Hoon Kim\*__, Kangwook Lee*, Gyeongjo Hwang, and Changho Suh  
    
 2. **[Simulated+Unsupervised Learning With Adaptive Data Generation and Bidirectional Mappings](https://openreview.net/pdf?id=SkHDoG-Cb)**  
@@ -27,7 +27,7 @@ I received Bachelor of Science from [Korea Advanced Institute of Science and Tec
    Kangwook Lee, Kyoungmin Lee*, __Hoon Kim*__, Changho Suh, and Kannan Ramchandran 
    
 4. **[SGD on Random Mixtures: Private Machine Learning under Data Breach Threats](http://www.sysml.cc/doc/73.pdf)**  
-   SysML, Stanford, CA, February, 2018  
+   SysML, Stanford, CA, USA, February, 2018  
    Kangwook Lee, Kyoungmin Lee*, __Hoon Kim*__, Changho Suh, and Kannan Ramchandran  
    
 5. **[Crash to not crash: Playing video games to predict vehicle collisions](https://openreview.net/pdf?id=r1GXtBEf-)**  
