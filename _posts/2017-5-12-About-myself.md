@@ -16,7 +16,7 @@ I received Bachelor of Science from [Korea Advanced Institute of Science and Tec
 
 1. **Crash to not crash: Learn to identify dangerous vehicles using a simulator**  
    AAAI, Hawaii, USA, January, 2019  
-   Hoon Kim*, __Kangwook Lee*__, Gyeongjo Hwang, and Changho Suh  
+   __Hoon Kim*__, Kangwook Lee*, Gyeongjo Hwang, and Changho Suh  
    
 2. **[Simulated+Unsupervised Learning With Adaptive Data Generation and Bidirectional Mappings](https://openreview.net/pdf?id=SkHDoG-Cb)**  
    ICLR, BC, Canada, April, 2018  
