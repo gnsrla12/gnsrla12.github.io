@@ -14,7 +14,7 @@ I received Bachelor of Science from [Korea Advanced Institute of Science and Tec
 
 ### International Conference & Workshop Proceedings
 
-1. **Crash to not crash: Learn to identify dangerous vehicles using a simulator**  
+1. **Crash to Not Crash: Learn to Identify Dangerous Vehicles using a Simulator**  
    AAAI, Honolulu, Hawaii, USA, January, 2019 (acceptance rate: 16.2%)  
    __Hoon Kim\*__, Kangwook Lee*, Gyeongjo Hwang, and Changho Suh  
    
@@ -37,10 +37,8 @@ I received Bachelor of Science from [Korea Advanced Institute of Science and Tec
 ---------------------------------------
 ## Invited Talks
 
-- __Learning from computer simululations to tackle real-world problems__  
+- __Learning from Computer Simululations to Tackle Real World Problems__  
    (Nov 2018) Invited talk @ Naver
-
-- __Domain Adaptation from Simulation to Real World__  
    (August 2018) Invited talk @ Samsung Advanced Institute of Technology (SAIT)
 
 - __Simulated+Unsupervised Learning with Adaptive Data Generation and Birectional Mappings__  
