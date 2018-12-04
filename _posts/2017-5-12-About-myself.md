@@ -37,7 +37,7 @@ I received Bachelor of Science from [Korea Advanced Institute of Science and Tec
 ---------------------------------------
 ## Invited Talks
 
-- __Learning from Computer Simululations to Tackle Real World Problems__ ([Slides](https://github.com/gnsrla12/gnsrla12.github.io/raw/master/files/Sim2Real.pdf))  
+- __Learning from Computer Simululations to Tackle Real World Problems__  
    (November 2018) Invited talk @ Naver  
    (August 2018) Invited talk @ Samsung Advanced Institute of Technology (SAIT)
 
