@@ -40,6 +40,8 @@ I received Bachelor of Science from [Korea Advanced Institute of Science and Tec
 - __Learning from Computer Simululations to Tackle Real World Problems__  
    (November 2018) Invited talk @ Naver  
    (August 2018) Invited talk @ Samsung Advanced Institute of Technology (SAIT)
+   (Mar 2019) Invited talk @ University of Oxford (SAIT)
+   (Mar 2019) Invited talk @ Samsung Research AI Center - Cambridge
 
 - __Simulated+Unsupervised Learning with Adaptive Data Generation and Birectional Mappings__  
    (June 2018) Invited talk @ Institute of Electronics Engineers of Korea (IEEK), Summer Conference
