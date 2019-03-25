@@ -49,7 +49,7 @@ I received Bachelor of Science from [Korea Advanced Institute of Science and Tec
 ---------------------------------------
 ## Educations
 
-- __Master of Science Candidate (MS), 2017.03 - 2019.02__  
+- __Master of Science (MS), 2017.03 - 2019.02__  
    Korea Advanced Institute of Science and Technology (KAIST)  
    Major : Electrical Engineering
 
