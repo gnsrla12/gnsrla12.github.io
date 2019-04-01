@@ -14,7 +14,7 @@ I received Bachelor of Science from [Korea Advanced Institute of Science and Tec
 
 ### International Conference & Workshop Proceedings
 
-1. **Synthesizing Differentially Private Datasets using Random Mixing
+1. **[Synthesizing Differentially Private Datasets using Random Mixing]  
    ISIT, Paris, France, July, 2019   
    Kangwook Lee, __Hoon Kim__, Kyungmin Lee, Changho Suh, and Kannan Ramchandran  
  
