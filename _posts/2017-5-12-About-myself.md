@@ -14,8 +14,8 @@ I received Bachelor of Science from [Korea Advanced Institute of Science and Tec
 
 ### International Conference & Workshop Proceedings
 
-1. **[Synthesizing Differentially Private Datasets using Random Mixing]  
-   ISIT, Paris, France, July, 2019   
+1. **[Synthesizing Differentially Private Datasets using Random Mixing]**  
+   ISIT, Paris, France, July, 2019  
    Kangwook Lee, __Hoon Kim__, Kyungmin Lee, Changho Suh, and Kannan Ramchandran  
  
 2. **[Crash to Not Crash: Learn to Identify Dangerous Vehicles using a Simulator](https://github.com/gnsrla12/gnsrla12.github.io/raw/master/files/Crash_to_Not_Crash.pdf)** ([Website](https://sites.google.com/view/crash-to-not-crash))  
