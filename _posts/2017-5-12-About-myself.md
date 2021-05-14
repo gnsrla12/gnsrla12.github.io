@@ -66,7 +66,10 @@ I received Bachelor of Science from [Korea Advanced Institute of Science and Tec
 ---------------------------------------
 ## Work Experience
 
-- __Research Scientist: Lunit, 2019.03 - Present__  
+- __Research Scientist: Krafton, 2020.12 - Present__  
+    Deep Learning Research (Alternative Military Service)
+
+- __Research Scientist: Lunit, 2019.03 - 2020.12__  
     Deep Learning Research (Alternative Military Service)
 
 - __Software Engineer Intern: Naver D2 Startup Factory, 2015.07 - 2015.08__  
