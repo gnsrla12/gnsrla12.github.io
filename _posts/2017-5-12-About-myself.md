@@ -12,7 +12,7 @@ I received Master of Science from the [EE Dept.](https://ee.kaist.ac.kr/?languag
 
 ### International Conference & Workshop Proceedings
 
-1. **Synthesizing Differentially Private Datasets using Random Mixing**  
+1. **[Synthesizing Differentially Private Datasets using Random Mixing](http://csuh.kaist.ac.kr/ISIT2019_DPMix_full.pdf)**  
    ISIT, Paris, France, July, 2019  
    Kangwook Lee, __Hoon Kim__, Kyungmin Lee, Changho Suh, and Kannan Ramchandran  
  
