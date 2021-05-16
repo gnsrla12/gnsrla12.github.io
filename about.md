@@ -4,7 +4,7 @@ title: Hoon Kim
 permalink: /about/
 ---
 
-Deep Learning Researcher
+Researcher Scientist @ Krafton Inc.
 
 ### Contact me
 
