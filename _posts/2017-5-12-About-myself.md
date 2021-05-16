@@ -3,9 +3,7 @@ layout: post
 title: About myself
 ---
 
-I received Master of Science from the [EE Dept.](https://ee.kaist.ac.kr/?language=en) at [Korea Advanced Institute of Science and Technology (KAIST)](https://www.kaist.ac.kr/html/en/) under the supervision of [Prof. Changho Suh and a member of Information System Laboratory](http://csuh.kaist.ac.kr/).  My major interest currently lay in **utilizing computer simulation and deep learning to tackle real-world problems**.
-
-I received Bachelor of Science from [Korea Advanced Institute of Science and Technology (KAIST)](https://www.kaist.ac.kr/html/en/) in february 2017 and double majored Computer Science and Electrical Engineering.
+I received Master of Science from the [EE Dept.](https://ee.kaist.ac.kr/?language=en) at [Korea Advanced Institute of Science and Technology (KAIST)](https://www.kaist.ac.kr/html/en/) under the supervision of [Prof. Changho Suh and a member of Information System Laboratory](http://csuh.kaist.ac.kr/). I received Bachelor of Science from [Korea Advanced Institute of Science and Technology (KAIST)](https://www.kaist.ac.kr/html/en/) in february 2017 and double majored Computer Science and Electrical Engineering. Currently, I am a Deep Learning Research at Krafton Inc.
 
 [**[Curriculum Vitae](https://github.com/gnsrla12/gnsrla12.github.io/raw/master/hoon_kim_cv.pdf)**] 
   
@@ -74,12 +72,9 @@ I received Bachelor of Science from [Korea Advanced Institute of Science and Tec
 
 - __Software Engineer Intern: Naver D2 Startup Factory, 2015.07 - 2015.08__  
     Embedded System Development
-
-- __Software Engineer Intern: Smilegate, 2015.07__  
-    Server Development
   
 ---------------------------------------
-## Awards
+## Honors & Awards
 
 - __2nd place, KAIST E5 Start-up Challenge ($10,000), 2015__  
    Skatey, the Most Skateboard-like Electric Skateboard ([Video](https://vimeo.com/174919036))
