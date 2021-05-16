@@ -3,7 +3,7 @@ layout: post
 title: About myself
 ---
 
-I received Master of Science from the [EE Dept.](https://ee.kaist.ac.kr/?language=en) at [Korea Advanced Institute of Science and Technology (KAIST)](https://www.kaist.ac.kr/html/en/) under the supervision of [Prof. Changho Suh and a member of Information System Laboratory](http://csuh.kaist.ac.kr/). I received Bachelor of Science from [Korea Advanced Institute of Science and Technology (KAIST)](https://www.kaist.ac.kr/html/en/) in february 2017 and double majored Computer Science and Electrical Engineering. Currently, I am a Deep Learning Research at Krafton Inc.
+I received Master of Science from the [EE Dept.](https://ee.kaist.ac.kr/?language=en) at [Korea Advanced Institute of Science and Technology (KAIST)](https://www.kaist.ac.kr/html/en/) under the supervision of [Prof. Changho Suh and a member of Information System Laboratory](http://csuh.kaist.ac.kr/). I received Bachelor of Science from [Korea Advanced Institute of Science and Technology (KAIST)](https://www.kaist.ac.kr/html/en/) in february 2017 and double majored Computer Science and Electrical Engineering. Currently, I am a Research Scientist at Krafton Inc.
 
 [**[Curriculum Vitae](https://github.com/gnsrla12/gnsrla12.github.io/raw/master/hoon_kim_cv.pdf)**] 
   
