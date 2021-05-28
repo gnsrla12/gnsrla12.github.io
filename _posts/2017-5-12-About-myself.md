@@ -8,16 +8,6 @@ I am a research scientist at Krafton Inc leading voice systhesis team. Previouls
 [**[Curriculum Vitae (last update January 2019)](https://github.com/gnsrla12/gnsrla12.github.io/raw/master/hoon_kim_cv.pdf)**] 
 
 ---------------------------------------
-## Work Experience
-
-- __Deep Learning Research Scientist: Krafton, 2020.12 - Present (Alternative Military Service)__  
-    Voice Synthesis Team Leader
-
-- __Deep Learning Research Scientist: Lunit, 2019.03 - 2020.12 (Alternative Military Service)__  
-    Biomarker Project - AI-Powered Biomarker for Immuno-Oncology  
-    CT Project - Developed AI solution for Chest CT
-
----------------------------------------
 ## Educations
 
 - __Master of Science (MS), 2017.03 - 2019.02__  
@@ -29,6 +19,16 @@ I am a research scientist at Krafton Inc leading voice systhesis team. Previouls
    Major : Electrical Engineering, Computer Science (Double Major)   
 
 - __Sangsan Highschool, 2009.03 - 2012.02__
+
+---------------------------------------
+## Work Experience
+
+- __Deep Learning Research Scientist: Krafton, 2020.12 - Present (Alternative Military Service)__  
+    Voice Synthesis Team Leader
+
+- __Deep Learning Research Scientist: Lunit, 2019.03 - 2020.12 (Alternative Military Service)__  
+    Biomarker Project - AI-Powered Biomarker for Immuno-Oncology  
+    CT Project - Developed AI solution for Chest CT
     
 ---------------------------------------
 ## Publications (*=equal contribution)
