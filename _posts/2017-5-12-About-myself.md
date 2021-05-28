@@ -6,7 +6,17 @@ title: About myself
 I am a research scientist at Krafton Inc. I received Master of Science from the [EE Dept.](https://ee.kaist.ac.kr/?language=en) at [Korea Advanced Institute of Science and Technology (KAIST)](https://www.kaist.ac.kr/html/en/) under the supervision of [Prof. Changho Suh and a member of Information System Laboratory](http://csuh.kaist.ac.kr/). I received Bachelor of Science from [KAIST](https://www.kaist.ac.kr/html/en/) in february 2017.
 
 [**[Curriculum Vitae (last update January 2019)](https://github.com/gnsrla12/gnsrla12.github.io/raw/master/hoon_kim_cv.pdf)**] 
-  
+
+---------------------------------------
+## Work Experience
+
+- __Deep Learning Research Scientist: Krafton, 2020.12 - Present (Alternative Military Service)__  
+    Voice Synthesis Team Leader
+
+- __Deep Learning Research Scientist: Lunit, 2019.03 - 2020.12 (Alternative Military Service)__  
+    Biomarker Project - AI-Powered Biomarker for Immuno-Oncology  
+    CT Project - Developed AI solution for Chest CT
+    
 ---------------------------------------
 ## Publications (*=equal contribution)
 
@@ -60,19 +70,6 @@ I am a research scientist at Krafton Inc. I received Master of Science from the 
    Major : Electrical Engineering, Computer Science (Double Major)   
 
 - __Sangsan Highschool, 2009.03 - 2012.02__
-  
----------------------------------------
-## Work Experience
-
-- __Deep Learning Research Scientist: Krafton, 2020.12 - Present (Alternative Military Service)__  
-    Voice Synthesis Team Leader
-
-- __Deep Learning Research Scientist: Lunit, 2019.03 - 2020.12 (Alternative Military Service)__  
-    Biomarker Project - AI-Powered Biomarker for Immuno-Oncology  
-    CT Project - Developed AI solution for Chest CT
-
-- __Software Engineer Intern: Naver D2 Startup Factory, 2015.07 - 2015.08__  
-    Embedded System Development
   
 ---------------------------------------
 ## Honors & Awards
