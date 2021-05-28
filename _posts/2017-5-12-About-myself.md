@@ -15,6 +15,7 @@ I received Master of Science from the [EE Dept.](https://ee.kaist.ac.kr/?languag
 - __Master of Science (MS), 2017.03 - 2019.02__  
    Korea Advanced Institute of Science and Technology (KAIST)  
    Major : Electrical Engineering
+   Thesis: Learning from Computer Simululations to Tackle Real World Problems
 
 - __Bachelor of Science (BS), 2012.03 - 2017.02__  
    Korea Advanced Institute of Science and Technology (KAIST)  
@@ -25,10 +26,10 @@ I received Master of Science from the [EE Dept.](https://ee.kaist.ac.kr/?languag
 ---------------------------------------
 ## Work Experience
 
-- __Deep Learning Research Scientist: Krafton, 2020.12 - Present (Alternative Military Service)__  
+- __Deep Learning Research Scientist: [Krafton Inc](https://www.krafton.com/en/index.html), 2020.12 - Present (Alternative Military Service)__  
     Voice Synthesis Team Leader
 
-- __Deep Learning Research Scientist: Lunit, 2019.03 - 2020.12 (Alternative Military Service)__  
+- __Deep Learning Research Scientist: [Lunit](https://www.lunit.io/en), 2019.03 - 2020.12 (Alternative Military Service)__  
     Biomarker Project - AI-Powered Biomarker for Immuno-Oncology  
     CT Project - Developed AI solution for Chest CT
     
