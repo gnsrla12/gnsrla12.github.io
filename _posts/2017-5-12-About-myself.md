@@ -16,6 +16,19 @@ I am a research scientist at Krafton Inc leading voice systhesis team. Previouls
 - __Deep Learning Research Scientist: Lunit, 2019.03 - 2020.12 (Alternative Military Service)__  
     Biomarker Project - AI-Powered Biomarker for Immuno-Oncology  
     CT Project - Developed AI solution for Chest CT
+
+---------------------------------------
+## Educations
+
+- __Master of Science (MS), 2017.03 - 2019.02__  
+   Korea Advanced Institute of Science and Technology (KAIST)  
+   Major : Electrical Engineering
+
+- __Bachelor of Science (BS), 2012.03 - 2017.02__  
+   Korea Advanced Institute of Science and Technology (KAIST)  
+   Major : Electrical Engineering, Computer Science (Double Major)   
+
+- __Sangsan Highschool, 2009.03 - 2012.02__
     
 ---------------------------------------
 ## Publications (*=equal contribution)
@@ -57,19 +70,6 @@ I am a research scientist at Krafton Inc leading voice systhesis team. Previouls
 
 - __Simulated+Unsupervised Learning with Adaptive Data Generation and Birectional Mappings__  
    (June 2018) Invited talk @ Institute of Electronics Engineers of Korea (IEEK), Summer Conference
-
----------------------------------------
-## Educations
-
-- __Master of Science (MS), 2017.03 - 2019.02__  
-   Korea Advanced Institute of Science and Technology (KAIST)  
-   Major : Electrical Engineering
-
-- __Bachelor of Science (BS), 2012.03 - 2017.02__  
-   Korea Advanced Institute of Science and Technology (KAIST)  
-   Major : Electrical Engineering, Computer Science (Double Major)   
-
-- __Sangsan Highschool, 2009.03 - 2012.02__
   
 ---------------------------------------
 ## Honors & Awards
