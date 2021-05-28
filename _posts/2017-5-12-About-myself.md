@@ -3,7 +3,7 @@ layout: post
 title: About myself
 ---
 
-I am a research scientist at Krafton Inc. I received Master of Science from the [EE Dept.](https://ee.kaist.ac.kr/?language=en) at [Korea Advanced Institute of Science and Technology (KAIST)](https://www.kaist.ac.kr/html/en/) under the supervision of [Prof. Changho Suh and a member of Information System Laboratory](http://csuh.kaist.ac.kr/). I received Bachelor of Science from [KAIST](https://www.kaist.ac.kr/html/en/) in february 2017.
+I am a research scientist at Krafton Inc leading voice systhesis team. Previoulsy, I was a research scientist at a Seoul-based medical AI startup, Lunit. I received Master of Science from the [EE Dept.](https://ee.kaist.ac.kr/?language=en) at [Korea Advanced Institute of Science and Technology (KAIST)](https://www.kaist.ac.kr/html/en/) under the supervision of [Prof. Changho Suh and a member of Information System Laboratory](http://csuh.kaist.ac.kr/). I received Bachelor of Science from [KAIST](https://www.kaist.ac.kr/html/en/) in february 2017.
 
 [**[Curriculum Vitae (last update January 2019)](https://github.com/gnsrla12/gnsrla12.github.io/raw/master/hoon_kim_cv.pdf)**] 
 
