@@ -14,7 +14,7 @@ I received Master of Science from the [EE Dept.](https://ee.kaist.ac.kr/?languag
 
 - __Master of Science (MS), 2017.03 - 2019.02__  
    Korea Advanced Institute of Science and Technology (KAIST)  
-   Major : Electrical Engineering
+   Major : Electrical Engineering. 
    Thesis: Learning from Computer Simululations to Tackle Real World Problems
 
 - __Bachelor of Science (BS), 2012.03 - 2017.02__  
