@@ -8,4 +8,4 @@ Researcher Scientist @ Krafton Inc.
 
 ### Contact me
 
-[gnsrla12@gmail.com](mailto:gnsrla12@gmail.com)
+[gnsrla12@gmail.com](mailto:gnsrla12@gmail.com) 
