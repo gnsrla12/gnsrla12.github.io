@@ -3,9 +3,9 @@ layout: post
 title: About myself
 ---
 
-I received Master of Science from the [EE Dept.](https://ee.kaist.ac.kr/?language=en) at [Korea Advanced Institute of Science and Technology (KAIST)](https://www.kaist.ac.kr/html/en/) under the supervision of [Prof. Changho Suh and a member of Information System Laboratory](http://csuh.kaist.ac.kr/). I received Bachelor of Science from [Korea Advanced Institute of Science and Technology (KAIST)](https://www.kaist.ac.kr/html/en/) in february 2017 and double majored Computer Science and Electrical Engineering. Currently, I am a Research Scientist at Krafton Inc.
+I am a Research Scientist at Krafton Inc. I received Master of Science from the [EE Dept.](https://ee.kaist.ac.kr/?language=en) at [Korea Advanced Institute of Science and Technology (KAIST)](https://www.kaist.ac.kr/html/en/) under the supervision of [Prof. Changho Suh and a member of Information System Laboratory](http://csuh.kaist.ac.kr/). I received Bachelor of Science from [KAIST](https://www.kaist.ac.kr/html/en/) in february 2017.
 
-[**[Curriculum Vitae](https://github.com/gnsrla12/gnsrla12.github.io/raw/master/hoon_kim_cv.pdf)**] 
+[**[Curriculum Vitae (last update January 2019)](https://github.com/gnsrla12/gnsrla12.github.io/raw/master/hoon_kim_cv.pdf)**] 
   
 ---------------------------------------
 ## Publications (*=equal contribution)
@@ -66,9 +66,12 @@ I received Master of Science from the [EE Dept.](https://ee.kaist.ac.kr/?languag
 
 - __Research Scientist: Krafton, 2020.12 - Present__  
     Deep Learning Research (Alternative Military Service)
+    Voice Synthesis Team Leader
 
 - __Research Scientist: Lunit, 2019.03 - 2020.12__  
     Deep Learning Research (Alternative Military Service)
+    Biomarker Project - AI-Powered Biomarker for Immuno-Oncology
+    CT Project - Developed AI solution for Chest CT
 
 - __Software Engineer Intern: Naver D2 Startup Factory, 2015.07 - 2015.08__  
     Embedded System Development
@@ -76,5 +79,8 @@ I received Master of Science from the [EE Dept.](https://ee.kaist.ac.kr/?languag
 ---------------------------------------
 ## Honors & Awards
 
-- __2nd place, KAIST E5 Start-up Challenge ($10,000), 2015__  
+- __Top 10 representative research outcome of KAIST EE department of 2018, 2019__  
+   Predicting Vehicle Collisions using Data Collected from Video Games
+   
+- __2nd place, KAIST Start-up Challenge ($10,000), 2015__  
    Skatey, the Most Skateboard-like Electric Skateboard ([Video](https://vimeo.com/174919036))
