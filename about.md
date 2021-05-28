@@ -4,7 +4,8 @@ title: Hoon Kim
 permalink: /about/
 ---
 
-Researcher Scientist @ Krafton Inc.
+Researcher Scientist @ Krafton Inc.  
+gnsrla12[at]gmail.com
 
 ### Contact me
 
