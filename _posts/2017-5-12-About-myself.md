@@ -21,19 +21,19 @@ I am a research scientist at Krafton Inc. I received Master of Science from the 
 ## Publications (*=equal contribution)
 
 ### International Conference & Workshop Proceedings
-
-1. **[Synthesizing Differentially Private Datasets using Random Mixing](http://csuh.kaist.ac.kr/ISIT2019_DPMix_full.pdf)**  
-   ISIT, Paris, France, July, 2019  
-   Kangwook Lee, __Hoon Kim__, Kyungmin Lee, Changho Suh, and Kannan Ramchandran  
  
-2. **[Crash to Not Crash: Learn to Identify Dangerous Vehicles using a Simulator](https://github.com/gnsrla12/gnsrla12.github.io/raw/master/files/Crash_to_Not_Crash.pdf)** ([Website](https://sites.google.com/view/crash-to-not-crash))  
+1. **[Crash to Not Crash: Learn to Identify Dangerous Vehicles using a Simulator](https://github.com/gnsrla12/gnsrla12.github.io/raw/master/files/Crash_to_Not_Crash.pdf)** ([Website](https://sites.google.com/view/crash-to-not-crash))  
    AAAI, Honolulu, Hawaii, USA, January, 2019 (acceptance rate: 16.2%, oral presentation)  
    __Hoon Kim\*__, Kangwook Lee*, Gyeongjo Hwang, and Changho Suh  
    
-3. **[Simulated+Unsupervised Learning With Adaptive Data Generation and Bidirectional Mappings](https://openreview.net/pdf?id=SkHDoG-Cb)**  
+2. **[Simulated+Unsupervised Learning With Adaptive Data Generation and Bidirectional Mappings](https://openreview.net/pdf?id=SkHDoG-Cb)**  
    ICLR, BC, Canada, April, 2018  
    Kangwook Lee*, __Hoon Kim*__, and Changho Suh  
 
+3. **[Synthesizing Differentially Private Datasets using Random Mixing](http://csuh.kaist.ac.kr/ISIT2019_DPMix_full.pdf)**  
+   ISIT, Paris, France, July, 2019  
+   Kangwook Lee, __Hoon Kim__, Kyungmin Lee, Changho Suh, and Kannan Ramchandran  
+   
 4. **[SGD on Random Mixtures: Private Machine Learning under Data Breach Threats](https://openreview.net/pdf?id=r17_wzJPM)**  
    ICLR Workshop, BC, Canada, April, 2018  
    Kangwook Lee, Kyoungmin Lee*, __Hoon Kim*__, Changho Suh, and Kannan Ramchandran 
