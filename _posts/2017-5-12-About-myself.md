@@ -65,12 +65,12 @@ I am a Research Scientist at Krafton Inc. I received Master of Science from the 
 ## Work Experience
 
 - __Research Scientist: Krafton, 2020.12 - Present__  
-    Deep Learning Research (Alternative Military Service)
+    Deep Learning Research (Alternative Military Service)  
     Voice Synthesis Team Leader
 
 - __Research Scientist: Lunit, 2019.03 - 2020.12__  
-    Deep Learning Research (Alternative Military Service)
-    Biomarker Project - AI-Powered Biomarker for Immuno-Oncology
+    Deep Learning Research (Alternative Military Service)  
+    Biomarker Project - AI-Powered Biomarker for Immuno-Oncology  
     CT Project - Developed AI solution for Chest CT
 
 - __Software Engineer Intern: Naver D2 Startup Factory, 2015.07 - 2015.08__  
