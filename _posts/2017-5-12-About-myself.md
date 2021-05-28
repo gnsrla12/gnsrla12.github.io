@@ -74,7 +74,7 @@ I am a research scientist at Krafton Inc leading the voice systhesis team. I am 
 ---------------------------------------
 ## Honors & Awards
 
-- __Top 10 representative research outcome of KAIST EE department of 2018, 2019__  
+- __Top 10 representative research outcome of KAIST EE department, 2019__  
    Predicting Vehicle Collisions using Data Collected from Video Games
    
 - __2nd place, KAIST Start-up Challenge ($10,000), 2015__  
