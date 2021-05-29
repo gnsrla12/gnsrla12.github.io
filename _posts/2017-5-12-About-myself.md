@@ -68,7 +68,7 @@ I received Master of Science from the [EE Dept.](https://ee.kaist.ac.kr/?languag
 - __Learning from Computer Simululations to Tackle Real World Problems__  
    (Mar 2019) Invited talk @ University of Oxford  
    (Mar 2019) Invited talk @ Samsung Research AI Center - Cambridge  
-   (November 2018) Invited talk @ Naver  
+   (November 2018) Invited talk @ Naver Clova  
    (August 2018) Invited talk @ Samsung Advanced Institute of Technology (SAIT)
 
 - __Simulated+Unsupervised Learning with Adaptive Data Generation and Birectional Mappings__  
